@@ -1,0 +1,10 @@
+J:\Programy 2020\WSP_ST_L1\Timer\Timer\bin\Debug\Timer.exe.config
+J:\Programy 2020\WSP_ST_L1\Timer\Timer\bin\Debug\Timer.exe
+J:\Programy 2020\WSP_ST_L1\Timer\Timer\bin\Debug\Timer.pdb
+J:\Programy 2020\WSP_ST_L1\Timer\Timer\obj\Debug\Timer.csprojAssemblyReference.cache
+J:\Programy 2020\WSP_ST_L1\Timer\Timer\obj\Debug\Timer.Form1.resources
+J:\Programy 2020\WSP_ST_L1\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+J:\Programy 2020\WSP_ST_L1\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+J:\Programy 2020\WSP_ST_L1\Timer\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+J:\Programy 2020\WSP_ST_L1\Timer\Timer\obj\Debug\Timer.exe
+J:\Programy 2020\WSP_ST_L1\Timer\Timer\obj\Debug\Timer.pdb

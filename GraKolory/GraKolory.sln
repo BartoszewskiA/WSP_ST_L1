@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraKolory", "GraKolory\GraKolory.csproj", "{623AA03F-E154-4D8F-81BA-B4F2D54B6AEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{623AA03F-E154-4D8F-81BA-B4F2D54B6AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{623AA03F-E154-4D8F-81BA-B4F2D54B6AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{623AA03F-E154-4D8F-81BA-B4F2D54B6AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{623AA03F-E154-4D8F-81BA-B4F2D54B6AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C70E614-A59F-4DF6-BABB-4178FE2F9B60}
+	EndGlobalSection
+EndGlobal
